@@ -1,2 +1,2 @@
 # SE-Portfolio-website-
-A Bookstore Portfolio website use to publish books that are created by me and my girlfriend
+Hi I am fresh grad Software Engineer student. How may I help you?
